@@ -2,14 +2,21 @@
 
 #define mod int(1e9 + 7)
 #define ll long long
+#define ld long double
 #define ull unsigned long long
+#define vci vector<int>
+#define vcl vector<ll>
+#define umi unordered_map<int, int>
+#define uml unordered_map<ll, ll>
+#define F first
+#define S second
+#define PB push_back
+#define DB pop_back
 #define MP make_pair
 #define tc           \
     int t;           \
     scanf("%d", &t); \
     while (t--)
-#define vci vector<int, int>
-#define vcl vector<ll, ll>
 
 using namespace std;
 
