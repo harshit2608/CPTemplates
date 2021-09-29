@@ -12,6 +12,10 @@ using namespace std;
 #define PB push_back
 #define DB pop_back
 #define MP make_pair
+#define vci vector<int>
+#define vcl vector<ll>
+#define umi unordered_map<int, int>
+#define uml unordered_map<ll, ll>
 #define rep(i, a, b) for (ll i = a; i < b; ++i)
 #define repi(i, a, b) for (ll i = b - 1; i >= a; --i)
 #define tc    \
